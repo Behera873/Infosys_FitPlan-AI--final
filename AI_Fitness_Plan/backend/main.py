@@ -72,7 +72,7 @@ ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
     "http://127.0.0.1:8080",
-    "https://fitplan-ai.vercel.app",  # Production (update with actual domain)
+    "https://infosys-fit-plan-ai-final.vercel.app",  # Production (update with actual domain)
 ]
 
 app.add_middleware(
